@@ -32,3 +32,4 @@
 *.app
 /.vs
 /CellularAutomata/x64
+/Engine/x64
